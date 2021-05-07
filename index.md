@@ -1,3 +1,4 @@
+## Don't ***Always*** Trust .org
 ### Why Not?
 
 Anyone with $10 can register a `.org` website, including me: a random internet person. `.org` websites are not inherently more trustworthy than any other public top level domains (like `.com` or `.net`).
