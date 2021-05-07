@@ -11,10 +11,6 @@ While that was the original intent for `.org`, it is not a requirement. Craiglis
 
 Good question. If you like thinking critically, [here's an article from Columbia University](https://library.columbia.edu/libraries/undergraduate/evaluating_web.html) on evaluating online sources. Otherwise there's plenty of videos on YouTube.
 
-### Does this mean I shouldn't trust `<insert giant website name here>`.org?
-
-Did you skip the last question?
-
 ### Why did you make this?
 
-A friend sent me a link to a `.org` website that was claiming they were giving away free solar panels to homeowners (you can read a good article about that at [Business Insider](https://www.businessinsider.com/misleading-solar-ads-spread-coronavirus-upends-door-to-door-sales-2020-5)). And now for $10 / year I can send a handy link to anyone else so I don't have to explain again.
+A friend sent me a link to a `.org` website that was claiming they were giving away free solar panels to homeowners (you can read a good article about that at [Business Insider](https://www.businessinsider.com/misleading-solar-ads-spread-coronavirus-upends-door-to-door-sales-2020-5)). And now for $10 / year I can send a handy link to anyone else so I don't have to explain why `scamwebsite.org` isn't trustworthy.
