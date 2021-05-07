@@ -8,7 +8,7 @@ While that was the original intent for `.org`, it is not a requirement. Craiglis
 
 ### Well if I can't always trust the last 3 letters in a domain, what CAN I trust?
 
-Good question. If you like thinking critically, [here's an article from Columbia University] on evaluating online sources. Otherwise there's plenty of videos on YouTube.
+Good question. If you like thinking critically, [here's an article from Columbia University](https://library.columbia.edu/libraries/undergraduate/evaluating_web.html) on evaluating online sources. Otherwise there's plenty of videos on YouTube.
 
 ### Does this mean I shouldn't trust `<insert giant website name here>`.org?
 
