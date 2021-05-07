@@ -5,7 +5,7 @@ Anyone with $10 can register a `.org` website, including me: a random internet p
 
 ### I thought only non-profits used .org!
 
-While that was the original intent for `.org`, it is not a requirement. Craiglist operates at `craigslist.org` and they are very much a for-profit website. Many other (if not all) major for-profit corporations own their `.org` domain and just forward it to their `.com` domain: `https://facebook.org`, `https://google.org`.
+While that was the original intent for `.org`, it is not a requirement. Craiglist operates at `craigslist.org` and they are very much a for-profit website. Many other (if not all) major for-profit corporations own their `.org` domain: `https://facebook.org`, `https://google.org`, `https://walmart.org`.
 
 ### Well if I can't always trust the last 3 letters in a domain, what CAN I trust?
 
